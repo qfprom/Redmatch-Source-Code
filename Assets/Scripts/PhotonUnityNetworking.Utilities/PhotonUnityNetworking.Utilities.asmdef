@@ -1,9 +1,0 @@
-{
-  "name": "PhotonUnityNetworking.Utilities",
-  "references": [
-    "PhotonUnityNetworking",
-    "Photon3Unity3D",
-    "PhotonRealtime"
-  ],
-  "allowUnsafeCode": true
-}

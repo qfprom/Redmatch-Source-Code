@@ -161,7 +161,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1724804207875695}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41ae6368cbe58642d8713a3fb52a4b98, type: 3}
+  m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   volumeTrigger: {fileID: 4099118695303065}

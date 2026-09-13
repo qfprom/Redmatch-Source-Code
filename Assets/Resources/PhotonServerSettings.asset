@@ -4,29 +4,35 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 928d11e459287424aad663fd1a7406f8, type: 3}
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
   m_Name: PhotonServerSettings
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   AppSettings:
     AppIdRealtime: 817678e5-54b4-4bad-8992-a7f5b61fb34b
-    AppIdChat:
+    AppIdFusion: 
+    AppIdChat: 
     AppIdVoice: 5bf058cf-22c4-49ed-885e-3cce35b80131
     AppVersion: 14
     UseNameServer: 1
     FixedRegion: usw
-    Server:
+    Server: 
     Port: 0
+    ProxyServer: 
     Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
     EnableLobbyStatistics: 0
     NetworkLogging: 1
-  StartInOfflineMode: 0
+  DevRegion: 
   PunLogging: 0
   EnableSupportLogger: 0
   RunInBackground: 1
+  StartInOfflineMode: 0
   RpcList:
   - DestroySpaceship
   - Fire
@@ -74,3 +80,11 @@ MonoBehaviour:
   - RPC_AssignInfectedTeam
   - RPC_WinGame
   - RPC_PlayerWin
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 0
