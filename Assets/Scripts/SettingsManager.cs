@@ -197,7 +197,10 @@ public class SettingsManager : MonoBehaviour
 		}
 		else
 		{
-			GameSetup.gameSetup.voiceRecorder.TransmitEnabled = false;
+			if ((bool)GameSetup.gameSetup)
+			{
+				GameSetup.gameSetup.voiceRecorder.TransmitEnabled = false;
+			}
 			PlayerPrefs.SetInt("Settings.TransmitVoice", 0);
 		}
 		if (PlayerPrefs.HasKey("Settings.ShowGore"))

@@ -108,23 +108,9 @@ public class LoginMenu : MonoBehaviour
 	{
 		playerUsername = Login_UsernameField.text;
 		playerPassword = Login_PasswordField.text;
-		if (playerUsername.Length > 3)
-		{
-			if (playerPassword.Length > 5)
-			{
-				loginParent.gameObject.SetActive(false);
-				LoadingScreenManager.Instance.RequestLoadingScreen("Logging in");
-				StartCoroutine(LoginUser());
-			}
-			else
-			{
-				Login_ErrorText.text = "Error: Password Incorrect";
-			}
-		}
-		else
-		{
-			Login_ErrorText.text = "Error: Username Incorrect";
-		}
+		loginParent.gameObject.SetActive(false);
+		LoadingScreenManager.Instance.RequestLoadingScreen("Logging in");
+		StartCoroutine(LoginUser());
 	}
 
 	public void Login_RegisterButtonPressed()
@@ -138,38 +124,9 @@ public class LoginMenu : MonoBehaviour
 	{
 		playerUsername = Register_UsernameField.text;
 		playerPassword = Register_PasswordField.text;
-		string text = Register_ConfirmPasswordField.text;
-		if (playerUsername.Length > 3)
-		{
-			if (playerUsername.Length < 15)
-			{
-				if (playerPassword.Length > 5)
-				{
-					if (playerPassword == text)
-					{
-						registerParent.gameObject.SetActive(false);
-						LoadingScreenManager.Instance.RequestLoadingScreen("Registering");
-						StartCoroutine(RegisterUser());
-					}
-					else
-					{
-						Register_ErrorText.text = "Error: Password's don't Match";
-					}
-				}
-				else
-				{
-					Register_ErrorText.text = "Error: Password too Short";
-				}
-			}
-			else
-			{
-				Register_ErrorText.text = "Error: Username too Long";
-			}
-		}
-		else
-		{
-			Register_ErrorText.text = "Error: Username too Short";
-		}
+		registerParent.gameObject.SetActive(false);
+		LoadingScreenManager.Instance.RequestLoadingScreen("Registering");
+		StartCoroutine(RegisterUser());
 	}
 
 	public void Register_BackButtonPressed()

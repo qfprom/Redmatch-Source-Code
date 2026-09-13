@@ -85,7 +85,11 @@ public class PhotonLobbyCustomMatch : MonoBehaviourPunCallbacks, ILobbyCallbacks
 		}
 		else
 		{
-			PhotonNetwork.PhotonServerSettings.AppSettings.AppIdRealtime = File.ReadAllText(Path.Combine(Path.Combine(Application.dataPath, ".."), "server.txt"));
+			string serverTxtPath = Path.Combine(Path.Combine(Application.dataPath, ".."), "server.txt");
+			if (File.Exists(serverTxtPath))
+			{
+				PhotonNetwork.PhotonServerSettings.AppSettings.AppIdRealtime = File.ReadAllText(serverTxtPath);
+			}
 			PhotonNetwork.ConnectUsingSettings();
 		}
 		mapText.text = "Map: " + GetMapName(RoomData.data.map);
