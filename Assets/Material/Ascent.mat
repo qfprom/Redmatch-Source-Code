@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ascent
+  m_Shader: {fileID: 4800000, guid: b95de6bf16d6e0346b53885d232a172a, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _HexTex:
+        m_Texture: {fileID: 2800000, guid: 22e0663bf7bb7674c819b48833762a4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _Alpha: 1
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _EdgeCycleModifier: -3
+      _EdgeDistanceModifier: 22.9
+      _EdgeFalloffExp: 11.4
+      _EdgeIntensity: 145.8
+      _EdgePulseIntensity: 8.6
+      _EdgeWidthModifier: 0.28
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 1
+      _IntersectFalloffExp: 4
+      _IntersectIntensity: 20.68
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _PulseCycleModifier: 3
+      _PulseDistanceModifier: -100.8
+      _PulseIntensity: -1.04
+      _PulseTextureModifier: 0.5
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _ZWrite: 1
+    m_Colors:
+      _Color: {r: 1, g: 0.5329028, b: 0.4292453, a: 1}
+      _EdgePulseColor: {r: 1, g: 0.6828524, b: 0.36320752, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

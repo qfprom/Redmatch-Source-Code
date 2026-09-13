@@ -1,0 +1,1811 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LightingData
+  m_Scene: {fileID: 102900000, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 3}
+  m_Lightmaps: []
+  m_LightmapsCacheFiles: []
+  m_LightProbes: {fileID: 25800000, guid: 7ca0468c0e89ed14c830b7e08204f399, type: 2}
+  m_LightmapsMode: 1
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0.17092085
+    sh[ 1]: -0.01586693
+    sh[ 2]: -0.012481589
+    sh[ 3]: -0.003609091
+    sh[ 4]: -0.002710515
+    sh[ 5]: -0.009375976
+    sh[ 6]: 0.01301517
+    sh[ 7]: 0.009671417
+    sh[ 8]: 0.023901394
+    sh[ 9]: 0.21437562
+    sh[10]: 0.027384195
+    sh[11]: -0.02069208
+    sh[12]: -0.0059805294
+    sh[13]: -0.0045615863
+    sh[14]: -0.015780449
+    sh[15]: 0.019057482
+    sh[16]: 0.0146486
+    sh[17]: 0.034177188
+    sh[18]: 0.29046366
+    sh[19]: 0.107801825
+    sh[20]: -0.037824385
+    sh[21]: -0.010936679
+    sh[22]: -0.008751313
+    sh[23]: -0.030272588
+    sh[24]: 0.025244819
+    sh[25]: 0.021783505
+    sh[26]: 0.041374456
+  m_LightmappedRendererData: []
+  m_LightmappedRendererDataIDs: []
+  m_EnlightenSceneMapping:
+    m_Renderers:
+    - renderer: {fileID: 884, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.5, y: 0.5555556, z: 0, w: 0}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: d81646672282c9688f59c33e990e0085
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 853, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.1875, y: 0.2962963, z: 0.3125, w: 0.5555556}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: d30afa2c315564993c10eda5aa26d7c4
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 849, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.1875, y: 0.22222222, z: 0.5, w: 0.44444445}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: 13fd27fa6b6ffe985c9cfdef41a99d5c
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 801, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.1875, y: 0.22222222, z: 0.75, w: 0.2962963}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: a424cb20a6c9df417433aaf46f1e4ec1
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 880, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.3125, y: 0.44444445, z: 0, w: 0.5555556}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: f71c4306b6323def7032fc45023a1cc7
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 794, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.1875, y: 0.2962963, z: 0.78125, w: 0}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: 096ce9e5c84fcbbf5ac1aa3655460f50
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 837, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.28125, y: 0.44444445, z: 0.5, w: 0}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: 3f62cf8dd1bd5eaf51f05dd031f3d3fe
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 793, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.12, z: 0.71428573, w: 0.76}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: 15ab755a0550da0178e183037aa8ac31
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 867, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.08, z: 0.8214286, w: 0.76}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: a14e1b4725baec64ce7ffab80e8c429b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 825, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.21428573, y: 0.32, z: 0.2857143, w: 0.56}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: aa64392f2765302b84ead5eeba6cf2a6
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 947, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.21428573, y: 0.24, z: 0.5, w: 0.52}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: f87f9f4744c1f7e3e19e32944d4ad7b8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 917, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.5, y: 0.56, z: 0, w: 0}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: a0757f1c515ecdf179e224f55e0d031e
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 902, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.21428573, y: 0.24, z: 0.5, w: 0.76}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: 04450bba731bff953a8f89a4604b4391
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 797, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.21428573, y: 0.24, z: 0.71428573, w: 0.52}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: f36f7d4e7d8bb5fd20a1665401a5eb27
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 838, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.071428575, y: 0.08, z: 0.92857146, w: 0}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: e3e6284e889fa0ed5ae31df82b365613
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 806, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.24, z: 0.8571429, w: 0.28}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: e8cc5c339da662fd151b738f4fa17029
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 874, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.42857146, y: 0.52, z: 0.5, w: 0}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: 39636cf1a9d1dad9b4b91be0d743d589
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 912, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.2857143, y: 0.39999998, z: 0, w: 0.56}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: a1f94013c8cb61a925c60d1eac584fae
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 903, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.071428575, y: 0.08, z: 0.8928572, w: 0.12}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: 897ea88fd48a8159b59d9145612c5cdd
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 795, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 2
+      instanceHash:
+        serializedVersion: 2
+        Hash: 3a059b6b044be634b32e6c169621b1cc
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 923, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.71428573, y: 1, z: 0, w: 0}
+      systemId: 3
+      instanceHash:
+        serializedVersion: 2
+        Hash: 48e212eb064bf62f3d4557c8340dcf3d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 803, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.2857143, y: 0.5, z: 0.71428573, w: 0}
+      systemId: 3
+      instanceHash:
+        serializedVersion: 2
+        Hash: e7149e10093c6e1fc81ca937730c7069
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 871, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.25, z: 0.8000001, w: 0}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: c0a87de67a677e2584988879fc7ea844
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 843, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.25, z: 0.53333336, w: 0}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 52edea6080c2bbdbe5cf16b0fee4a14d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 804, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.1875, z: 0.73333335, w: 0.25}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 5966f4e2b3b7a041fa98672e9152b293
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 796, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.10000001, y: 0.0625, z: 0.8000001, w: 0.375}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: b7c10166bc1673ab10ec4f97caa0e3dd
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 932, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.53333336, y: 0.5, z: 0, w: 0}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 1457d007c33a60f23d2eff71b3f8f944
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 892, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.1875, z: 0.6, w: 0.4375}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 713ce346ca1c4cd41d63208e644820cb
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 830, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.53333336, y: 0.5, z: 0, w: 0.5}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 1f9f9330d0663685379417a2e3507e9e
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 934, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.25, z: 0.53333336, w: 0.25}
+      systemId: 4
+      instanceHash:
+        serializedVersion: 2
+        Hash: 83edf9d3fafaea2faf1fa6c2075c93ab
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 840, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.20689654, z: 0.73333335, w: 0.55172414}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: dc9e720a199ae5b41c12c8ff1c55aa88
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 809, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.27586207, z: 0.53333336, w: 0.55172414}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: 7455d14c7b5824fc612465d8615825b2
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 948, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.27586207, z: 0.33333334, w: 0.55172414}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: 24fb94d7889eafefdb30a20d36d2fd01
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 815, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.4137931, z: 0, w: 0.5862069}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: aa821d52a2bd3f10566b22b13ef1db41
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 860, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.53333336, y: 0.5862069, z: 0, w: 0}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4f2abcfab80eadff830f08a06d951d08
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 890, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.4666667, y: 0.55172414, z: 0.53333336, w: 0}
+      systemId: 5
+      instanceHash:
+        serializedVersion: 2
+        Hash: a91a960ac1bf36a2d95eebfc71dbc679
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 824, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 6
+      instanceHash:
+        serializedVersion: 2
+        Hash: 89b17dd0dd79dc40c427c81c4223c7e8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 928, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.4666667, y: 0.64, z: 0, w: 0}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: ef70765c0f8de4095c161914b76a7909
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 857, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.10000001, y: 0.12, z: 0.20000002, w: 0.88}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: 016e4a9223356f2e892a7674f6039986
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 911, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.13333334, y: 0.24, z: 0.33333334, w: 0.64}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: 534584045037bac3a0bad59484cd61a8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 921, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.48, z: 0.4666667, w: 0}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: af6f3ade80068fbe611a64ffe4a77a41
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 878, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.35999998, z: 0, w: 0.64}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: 9102f0c08562973715e37df88ed9f36a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 918, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.10000001, y: 0.08, z: 0.6333334, w: 0.39999998}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: e3d244eb8ff30ac35b3ed3e9dfddb6e7
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 938, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.16, z: 0.4666667, w: 0.48}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: 6f3385ad9ac5279ee618af1ae90ea58c
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 814, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.16, z: 0.4666667, w: 0.64}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: a85c4082c094ff84e1d0aaaa158519f1
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 908, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.32, z: 0.8000001, w: 0}
+      systemId: 7
+      instanceHash:
+        serializedVersion: 2
+        Hash: 0362c422e9c17cb7a3520e9b443429e7
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 916, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.071428575, y: 0.09677419, z: 0.8571429, w: 0.7096774}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: 49823e0e0f0cd1eafd677e6887ed76cb
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 847, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.071428575, y: 0.06451613, z: 0.8571429, w: 0.80645156}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: 07626dc216c65e2d09f26fb6bd5dba09
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 879, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.2857143, y: 0.2580645, z: 0.5714286, w: 0.7096774}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: f47948fa327267beb427b2d46cca025e
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 811, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.42857146, y: 0.41935483, z: 0.5714286, w: 0}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4a80517e7991acb8aaeb79772b03b04c
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 873, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.35714287, y: 0.29032257, z: 0.60714287, w: 0.41935483}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: a74ad387c434ebb38245b48920fe0926
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 832, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.09677419, z: 0.8214286, w: 0.61290324}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4546af3fcad8c00afe3a471272ef6520
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 929, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.60714287, y: 0.48387095, z: 0, w: 0.516129}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: 7ef3fcc7cb9d44526662fcd3c86f4dc8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 913, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.5714286, y: 0.516129, z: 0, w: 0}
+      systemId: 8
+      instanceHash:
+        serializedVersion: 2
+        Hash: e65bda3ffd6f18d158a37d06eb3acb72
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 805, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.060606062, z: 0.35714287, w: 0.8181819}
+      systemId: 9
+      instanceHash:
+        serializedVersion: 2
+        Hash: a4c9179b1bb8ec9502549571803c2cfb
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 872, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.96428573, y: 0.8181819, z: 0, w: 0}
+      systemId: 9
+      instanceHash:
+        serializedVersion: 2
+        Hash: b72245f33e427273ea9bb54fa1b4cab1
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 887, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.107142866, y: 0.060606062, z: 0.46428573, w: 0.8181819}
+      systemId: 9
+      instanceHash:
+        serializedVersion: 2
+        Hash: f62e10ca8ee948e0a0c41af37f540af7
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 895, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.21428573, y: 0.18181819, z: 0, w: 0.8181819}
+      systemId: 9
+      instanceHash:
+        serializedVersion: 2
+        Hash: 65881ddfb2eb948b914baac5ed6cc8b9
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 831, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.14285715, y: 0.18181819, z: 0.21428573, w: 0.8181819}
+      systemId: 9
+      instanceHash:
+        serializedVersion: 2
+        Hash: 460fff40babb1d599d8f533772924bdd
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 870, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.25, z: 0.36363637, w: 0.33333334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: a137d3391abbdbf3f41ca2f29d14a093
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 943, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.13636364, y: 0.125, z: 0.36363637, w: 0.75}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: a2ea63504c2b62ac6342e09e15c045de
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 926, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.25, z: 0.6363636, w: 0.33333334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 2d2db445529d427b40a73f44be987868
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 936, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.25, z: 0.27272728, w: 0.5833334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 70bfde40593d660598779667740e3ea0
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 855, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.36363637, y: 0.33333334, z: 0, w: 0}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 9464651d635ca77dd7f3f0080f7d3dd2
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 896, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.09090909, y: 0.16666667, z: 0.90909094, w: 0.33333334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 6581ff999c550e518a8704aca86e9a6d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 839, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.33333334, z: 0.72727275, w: 0}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 8ad1e4979d0eed1bcea83a750495faf5
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 924, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.36363637, y: 0.33333334, z: 0, w: 0.33333334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 9ccff23ac587d52a870620a8caa6c40b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 866, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.33333334, z: 0, w: 0.6666667}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 81ed4518db3d7f03d46b63a93f4f3d95
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 846, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.27272728, y: 0.16666667, z: 0.54545456, w: 0.5833334}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4c1c2fe1f185d34ee1fc8f327e364de3
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 834, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.36363637, y: 0.33333334, z: 0.36363637, w: 0}
+      systemId: 10
+      instanceHash:
+        serializedVersion: 2
+        Hash: 87e98cc1f52baf5a4d282788eebbe42a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 940, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 11
+      instanceHash:
+        serializedVersion: 2
+        Hash: cc1dd610e37bca55513f65ad6cfdd1ce
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 909, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.13333334, y: 0.24, z: 0.6666667, w: 0.56}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: 49b9c9137b356b20898e2a2f45338644
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 889, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.48, z: 0, w: 0.52}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: 3404fe737dbc99b602ecc083fa57fe19
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 852, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.06666667, y: 0.16, z: 0.9333334, w: 0.32}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: ba29ca5e87c50b8a65f1c9f418540295
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 946, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.48, z: 0.33333334, w: 0.52}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: 7951dbbd8f4645e67f73ef94610bceb9
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 897, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.40000004, y: 0.52, z: 0, w: 0}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: d7ca5fb1e0d4f103d2d7d84914e9cb72
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 939, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.32, z: 0.8000001, w: 0}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: 532d33fee81860afef871227e7db2a5d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 886, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.40000004, y: 0.52, z: 0.40000004, w: 0}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: 8165dccde8e1fa9413cc063256901006
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 792, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.24, z: 0.73333335, w: 0.32}
+      systemId: 12
+      instanceHash:
+        serializedVersion: 2
+        Hash: e8d19464f368baf2f55b2d66f631d5b7
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 807, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.15384616, y: 0.21428573, z: 0.61538464, w: 0.71428573}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4f2891730399cfad17e2e8225cd1e146
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 826, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.23076925, y: 0.2857143, z: 0.4615385, w: 0.42857146}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 300274d70c9521fc0e0944a34ed5e2ed
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 817, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.11538462, y: 0.071428575, z: 0.80769235, w: 0.35714287}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 1f8980912c90429e89a72bafdc77325e
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 859, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.3846154, y: 0.42857146, z: 0.61538464, w: 0}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 0cd85186386e04f4dffe27e31cf9de63
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 828, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.11538462, y: 0.071428575, z: 0.53846157, w: 0.92857146}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 069a6dc54fb7f1263eaafb34eedca05b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 836, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.3846154, y: 0.42857146, z: 0, w: 0.5714286}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 685462005dfbe7e8b543d079a4e119ea
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 845, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.61538464, y: 0.5714286, z: 0, w: 0}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: d71de4387e39a3363f3abd93e7aa33f2
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 819, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.23076925, y: 0.2857143, z: 0.3846154, w: 0.71428573}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 42d7621ba48bac69c9aefee861a3e438
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 821, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.11538462, y: 0.071428575, z: 0.6538462, w: 0.8928572}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: ac1b0792c67c6dca7be3aa50664d3b6b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 907, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.23076925, y: 0.2857143, z: 0.6923077, w: 0.42857146}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 045d1d15de3726d25fbdc098318ed4a3
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 848, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.15384616, y: 0.21428573, z: 0.7692308, w: 0.71428573}
+      systemId: 13
+      instanceHash:
+        serializedVersion: 2
+        Hash: 8fe1cddaf98b1e7cca4a9b8c30b6d69c
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 800, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.2857143, z: 0.8000001, w: 0}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: ac1c8cc51a21383652da838be62d5883
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 812, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.2857143, z: 0.43333337, w: 0.35714287}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 514b0b6f30a01e50b157308a7acf1665
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 920, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.2857143, z: 0.53333336, w: 0}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 59c73f3437e54672440bdd493b3cf347
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 868, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.21428573, z: 0.33333334, w: 0.6428572}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: af24ff1d3a3b2e53afd6f71d8d203104
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 914, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.10000001, y: 0.107142866, z: 0.73333335, w: 0.71428573}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 3d170f1c47baf9f9bdc1790c89aad394
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 935, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.21428573, z: 0.53333336, w: 0.6428572}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 5d6c3d7c6357064f36d70fa2aafdcd06
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 823, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.42857146, z: 0, w: 0.5714286}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 8772288d72dfab710081adf037a4f07a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 810, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.2857143, z: 0.6333334, w: 0.2857143}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 63a4c546bf0b3bc3ebd99b902efca87f
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 885, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.53333336, y: 0.5714286, z: 0, w: 0}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 86fe6e8ac478d4a7fad0ea4478222475
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 944, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.13333334, y: 0.21428573, z: 0.8333334, w: 0.2857143}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: 917f5c5aceb42901b94abd0bcaa691f0
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 808, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.21428573, z: 0.73333335, w: 0.5}
+      systemId: 14
+      instanceHash:
+        serializedVersion: 2
+        Hash: cf1af1a7d2c0dfc9704673fb06691a91
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 813, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.2580645, z: 0.6666667, w: 0.2580645}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: 63bd11ee187aedeeae7b89b5701e27a2
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 898, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.6666667, y: 0.48387095, z: 0, w: 0.516129}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: abfed70034deca781f786632adc343e8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 905, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.6666667, y: 0.516129, z: 0, w: 0}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: e7ebe0a56adfb1879493f18ce3a31c31
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 833, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.125, y: 0.06451613, z: 0.4166667, w: 0.9032258}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: cb79242d7c51bb124040a8c9af9f5979
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 951, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.12903225, z: 0.6666667, w: 0.7096774}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: c196c6af7cda01b9ca8fb218e8d94884
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 862, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.12903225, z: 0.6666667, w: 0.83870965}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: 9b06e7d29ee2041fc7e4075aca1cebe8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 949, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.2580645, z: 0.6666667, w: 0}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: d3f00656b1df7db0fad798cf9608fe90
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 854, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.09677419, z: 0.16666667, w: 0.9032258}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: 91f9f151e30cf47b1a454ba4042619e8
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 922, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.19354838, z: 0.6666667, w: 0.516129}
+      systemId: 15
+      instanceHash:
+        serializedVersion: 2
+        Hash: 6be57d2bea0e31ae88a7d2b9475797ca
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 891, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.6764706, y: 1, z: 0, w: 0}
+      systemId: 16
+      instanceHash:
+        serializedVersion: 2
+        Hash: af5a70e50c99d033ec142d805769439b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 865, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.29411766, y: 0.5, z: 0.6764706, w: 0}
+      systemId: 16
+      instanceHash:
+        serializedVersion: 2
+        Hash: 176b1c7e3ff2fb2d20ea8870107ebe4b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 856, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.29411766, y: 0.5, z: 0.64705884, w: 0.5}
+      systemId: 16
+      instanceHash:
+        serializedVersion: 2
+        Hash: d92e35a79c9459377bdd11bbfcdce607
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 906, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.5, y: 0.55172414, z: 0.5, w: 0}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: 2aafb1ab205890a784730d2450ccace4
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 876, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.3125, y: 0.4137931, z: 0, w: 0.5862069}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: 891da0a43cca169a56f060dfcac5164a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 927, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.5, y: 0.5862069, z: 0, w: 0}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: 84bc76b0bc90a073a9f4639da34526eb
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 818, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.125, y: 0.20689654, z: 0.3125, w: 0.55172414}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: 0ffa11e2e78c2f3024e02e85cdc1731a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 791, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.125, y: 0.20689654, z: 0.4375, w: 0.55172414}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: 99e98357ea73cbdc2002696cc913da14
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 925, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.125, y: 0.13793103, z: 0.5625, w: 0.55172414}
+      systemId: 17
+      instanceHash:
+        serializedVersion: 2
+        Hash: bc49bd69f074cbd1435ecd34e4ce01a3
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 835, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 18
+      instanceHash:
+        serializedVersion: 2
+        Hash: 53c8ff5e4860d312b0f8485b90735cca
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 875, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.6666667, y: 0.5555556, z: 0, w: 0}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: aacd901e0a8429a67863b5ca0838efe5
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 942, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.4166667, y: 0.44444445, z: 0, w: 0.5555556}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: 25593aeb406731572aa7bbad2e2d5e86
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 952, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.22222222, z: 0.75, w: 0.3703704}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: 48e3e2ae40936b51b0dc182daa6dbb86
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 790, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.3703704, z: 0.6666667, w: 0}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: a701b642547318056beaa00bf0f2ab12
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 869, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.25, y: 0.22222222, z: 0.4166667, w: 0.7407408}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: 21006b0d6006ba59594fa3de0e6f3796
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 882, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.33333334, y: 0.2962963, z: 0.4166667, w: 0.44444445}
+      systemId: 19
+      instanceHash:
+        serializedVersion: 2
+        Hash: 4055e5cd8455c3c4b3539265491d1955
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 842, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.12903225, z: 0.6666667, w: 0.58064514}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 3c4d8dc8260d43f217dfb46bb3a5dac2
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 883, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.2580645, z: 0.8000001, w: 0}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 64e8d3282fc07925c5d4889b28c6578b
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 864, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.13333334, y: 0.19354838, z: 0.53333336, w: 0.58064514}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 1df6e66438a8d64d2e4ff9ea1de35c73
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 816, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.32258064, z: 0.53333336, w: 0}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 0c0ae5ee3dec73498d41c1174989818d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 894, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.2580645, z: 0.8000001, w: 0.2580645}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: d1e849555a0884280d29c630fa8222a4
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 844, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.19354838, z: 0.26666668, w: 0.6451613}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: a65834005beef7c22bce71432b582e31
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 877, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.53333336, y: 0.48387095, z: 0, w: 0}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 20ad248b7de3d35263d45beddf03e52a
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 945, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.2580645, z: 0.26666668, w: 0.38709676}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: f563afc19eb471b8557ac0df9fd47ee6
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 950, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.32258064, z: 0, w: 0.48387095}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: a1063322a72d9987019de68601dc5852
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 881, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.26666668, y: 0.2580645, z: 0.53333336, w: 0.32258064}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 0c82324ed11d3d4c47e58a360b18df62
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 904, guid: 355b6ce5fa317144d9debed5b0c3f5a6, type: 2}
+      dynamicLightmapSTInSystem: {x: 0.20000002, y: 0.19354838, z: 0, w: 0.80645156}
+      systemId: 20
+      instanceHash:
+        serializedVersion: 2
+        Hash: 2dafd4f1ea3ad51dfc184d70a7926e8d
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    m_Systems:
+    - rendererIndex: 0
+      rendererSize: 7
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 182
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: ecaf8e8fb3917b8673eeae1c14d80345
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: de15a4d6472b2a2569641aab00730602
+    - rendererIndex: 7
+      rendererSize: 12
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 454
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 73d122f67ac6f95db672992161e2ab8e
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 71d3ee2eaa8c220163fdac45e642c934
+    - rendererIndex: 19
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 124
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 7b4dbd4d9049bbdc2db50e34cd2f6ef9
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 2d24d57734b831fb89ee1eb35be39672
+    - rendererIndex: 20
+      rendererSize: 2
+      atlasIndex: 0
+      atlasOffsetX: 236
+      atlasOffsetY: 124
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: acd2b27b5ef83c84ef6d28fafb15c0e3
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 2c8d05f33590b01495e7e886b9b3df6b
+    - rendererIndex: 22
+      rendererSize: 8
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 124
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 39df636b1425860686c97439eaaa837e
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 734f279d14d359ba235cf27168775e90
+    - rendererIndex: 30
+      rendererSize: 6
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 378
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: cc026c74f3fcbd923838f86d07cc73ad
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 7b04de0a83e5339c1fbc32e4b44dd51a
+    - rendererIndex: 36
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 372
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 39fc6849dab3f7add66a0501d416e1f5
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 0dd7ee68a3ea9f2debd73f60a5cc59a0
+    - rendererIndex: 37
+      rendererSize: 9
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 348
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: e2f9d862f9d17adc17816b9737d6b16e
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: fe06e83c45c7f22b43f1d6b1707db711
+    - rendererIndex: 46
+      rendererSize: 8
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 316
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 300ae77b08649e23cfab24f16f4aa308
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: df221c34a519bbb8e79af33475b58d8a
+    - rendererIndex: 54
+      rendererSize: 5
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 188
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 5da3a8cf664e4113fd864564afffd186
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 6a23d64963f61d6a59a62e68ca505ebd
+    - rendererIndex: 59
+      rendererSize: 11
+      atlasIndex: 0
+      atlasOffsetX: 192
+      atlasOffsetY: 124
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: c98ddf4ef4820a40308e805022c8a5c3
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 87265492e4bc347b61eaa16ad95853a2
+    - rendererIndex: 70
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 248
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 9ac74955d02ceb08006f2a935c2aec0f
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 1a645c5bb16837c1e43406658094c4ab
+    - rendererIndex: 71
+      rendererSize: 8
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 298
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: f9d1e476c2b857e9e7be5695071fafcd
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 87ed67f622e3fe5b9537a3218731c031
+    - rendererIndex: 79
+      rendererSize: 11
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 398
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 47adbf48de5b12a1fd8b9ec1574fa2c1
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 075c63fc9951f1377c7fda2bab0d957e
+    - rendererIndex: 90
+      rendererSize: 11
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 436
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 0693c902c260c13aaa0785a18eadc02b
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 0830f0d7b77afb107687e119f5aec952
+    - rendererIndex: 101
+      rendererSize: 9
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 236
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 1344ed47a18cdaa5ccdf1ecef1d27ee0
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 2eb7c077b647225a030276f18df7fddb
+    - rendererIndex: 110
+      rendererSize: 3
+      atlasIndex: 0
+      atlasOffsetX: 124
+      atlasOffsetY: 124
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 77f71a71d62081dcaf9a139fa43a6127
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: de6642f96a5bde64f7d61635194c731f
+    - rendererIndex: 113
+      rendererSize: 6
+      atlasIndex: 0
+      atlasOffsetX: 60
+      atlasOffsetY: 124
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 4a8e1b8b787160d87d963c1413f29e98
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: e21ecc81a14e8b8be1cc627ba9f9181b
+    - rendererIndex: 119
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 08e0ae2b1b2833c1f4698f2bd7fda01b
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 168f056a36382b81f51a81da51a4d28e
+    - rendererIndex: 120
+      rendererSize: 6
+      atlasIndex: 0
+      atlasOffsetX: 124
+      atlasOffsetY: 172
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 7a4581a34c5ad0755706c006c27061ad
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: da63f8c66798671833adc7a152623413
+    - rendererIndex: 126
+      rendererSize: 11
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 254
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 6f2859e28aaf10f2c19907410e1d9026
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 42b35d121a3d6a9f7cf2149eaadf1e85
+    m_Probesets: []
+    m_SystemAtlases:
+    - atlasSize: 512
+      atlasHash:
+        serializedVersion: 2
+        Hash: 8ca58b0273733b31698adf6b7c5b1d39
+      firstSystemId: 0
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs:
+  - targetObject: 884
+    targetPrefab: 0
+  - targetObject: 853
+    targetPrefab: 0
+  - targetObject: 849
+    targetPrefab: 0
+  - targetObject: 801
+    targetPrefab: 0
+  - targetObject: 880
+    targetPrefab: 0
+  - targetObject: 794
+    targetPrefab: 0
+  - targetObject: 837
+    targetPrefab: 0
+  - targetObject: 793
+    targetPrefab: 0
+  - targetObject: 867
+    targetPrefab: 0
+  - targetObject: 825
+    targetPrefab: 0
+  - targetObject: 947
+    targetPrefab: 0
+  - targetObject: 917
+    targetPrefab: 0
+  - targetObject: 902
+    targetPrefab: 0
+  - targetObject: 797
+    targetPrefab: 0
+  - targetObject: 838
+    targetPrefab: 0
+  - targetObject: 806
+    targetPrefab: 0
+  - targetObject: 874
+    targetPrefab: 0
+  - targetObject: 912
+    targetPrefab: 0
+  - targetObject: 903
+    targetPrefab: 0
+  - targetObject: 795
+    targetPrefab: 0
+  - targetObject: 923
+    targetPrefab: 0
+  - targetObject: 803
+    targetPrefab: 0
+  - targetObject: 871
+    targetPrefab: 0
+  - targetObject: 843
+    targetPrefab: 0
+  - targetObject: 804
+    targetPrefab: 0
+  - targetObject: 796
+    targetPrefab: 0
+  - targetObject: 932
+    targetPrefab: 0
+  - targetObject: 892
+    targetPrefab: 0
+  - targetObject: 830
+    targetPrefab: 0
+  - targetObject: 934
+    targetPrefab: 0
+  - targetObject: 840
+    targetPrefab: 0
+  - targetObject: 809
+    targetPrefab: 0
+  - targetObject: 948
+    targetPrefab: 0
+  - targetObject: 815
+    targetPrefab: 0
+  - targetObject: 860
+    targetPrefab: 0
+  - targetObject: 890
+    targetPrefab: 0
+  - targetObject: 824
+    targetPrefab: 0
+  - targetObject: 928
+    targetPrefab: 0
+  - targetObject: 857
+    targetPrefab: 0
+  - targetObject: 911
+    targetPrefab: 0
+  - targetObject: 921
+    targetPrefab: 0
+  - targetObject: 878
+    targetPrefab: 0
+  - targetObject: 918
+    targetPrefab: 0
+  - targetObject: 938
+    targetPrefab: 0
+  - targetObject: 814
+    targetPrefab: 0
+  - targetObject: 908
+    targetPrefab: 0
+  - targetObject: 916
+    targetPrefab: 0
+  - targetObject: 847
+    targetPrefab: 0
+  - targetObject: 879
+    targetPrefab: 0
+  - targetObject: 811
+    targetPrefab: 0
+  - targetObject: 873
+    targetPrefab: 0
+  - targetObject: 832
+    targetPrefab: 0
+  - targetObject: 929
+    targetPrefab: 0
+  - targetObject: 913
+    targetPrefab: 0
+  - targetObject: 805
+    targetPrefab: 0
+  - targetObject: 872
+    targetPrefab: 0
+  - targetObject: 887
+    targetPrefab: 0
+  - targetObject: 895
+    targetPrefab: 0
+  - targetObject: 831
+    targetPrefab: 0
+  - targetObject: 870
+    targetPrefab: 0
+  - targetObject: 943
+    targetPrefab: 0
+  - targetObject: 926
+    targetPrefab: 0
+  - targetObject: 936
+    targetPrefab: 0
+  - targetObject: 855
+    targetPrefab: 0
+  - targetObject: 896
+    targetPrefab: 0
+  - targetObject: 839
+    targetPrefab: 0
+  - targetObject: 924
+    targetPrefab: 0
+  - targetObject: 866
+    targetPrefab: 0
+  - targetObject: 846
+    targetPrefab: 0
+  - targetObject: 834
+    targetPrefab: 0
+  - targetObject: 940
+    targetPrefab: 0
+  - targetObject: 909
+    targetPrefab: 0
+  - targetObject: 889
+    targetPrefab: 0
+  - targetObject: 852
+    targetPrefab: 0
+  - targetObject: 946
+    targetPrefab: 0
+  - targetObject: 897
+    targetPrefab: 0
+  - targetObject: 939
+    targetPrefab: 0
+  - targetObject: 886
+    targetPrefab: 0
+  - targetObject: 792
+    targetPrefab: 0
+  - targetObject: 807
+    targetPrefab: 0
+  - targetObject: 826
+    targetPrefab: 0
+  - targetObject: 817
+    targetPrefab: 0
+  - targetObject: 859
+    targetPrefab: 0
+  - targetObject: 828
+    targetPrefab: 0
+  - targetObject: 836
+    targetPrefab: 0
+  - targetObject: 845
+    targetPrefab: 0
+  - targetObject: 819
+    targetPrefab: 0
+  - targetObject: 821
+    targetPrefab: 0
+  - targetObject: 907
+    targetPrefab: 0
+  - targetObject: 848
+    targetPrefab: 0
+  - targetObject: 800
+    targetPrefab: 0
+  - targetObject: 812
+    targetPrefab: 0
+  - targetObject: 920
+    targetPrefab: 0
+  - targetObject: 868
+    targetPrefab: 0
+  - targetObject: 914
+    targetPrefab: 0
+  - targetObject: 935
+    targetPrefab: 0
+  - targetObject: 823
+    targetPrefab: 0
+  - targetObject: 810
+    targetPrefab: 0
+  - targetObject: 885
+    targetPrefab: 0
+  - targetObject: 944
+    targetPrefab: 0
+  - targetObject: 808
+    targetPrefab: 0
+  - targetObject: 813
+    targetPrefab: 0
+  - targetObject: 898
+    targetPrefab: 0
+  - targetObject: 905
+    targetPrefab: 0
+  - targetObject: 833
+    targetPrefab: 0
+  - targetObject: 951
+    targetPrefab: 0
+  - targetObject: 862
+    targetPrefab: 0
+  - targetObject: 949
+    targetPrefab: 0
+  - targetObject: 854
+    targetPrefab: 0
+  - targetObject: 922
+    targetPrefab: 0
+  - targetObject: 891
+    targetPrefab: 0
+  - targetObject: 865
+    targetPrefab: 0
+  - targetObject: 856
+    targetPrefab: 0
+  - targetObject: 906
+    targetPrefab: 0
+  - targetObject: 876
+    targetPrefab: 0
+  - targetObject: 927
+    targetPrefab: 0
+  - targetObject: 818
+    targetPrefab: 0
+  - targetObject: 791
+    targetPrefab: 0
+  - targetObject: 925
+    targetPrefab: 0
+  - targetObject: 835
+    targetPrefab: 0
+  - targetObject: 875
+    targetPrefab: 0
+  - targetObject: 942
+    targetPrefab: 0
+  - targetObject: 952
+    targetPrefab: 0
+  - targetObject: 790
+    targetPrefab: 0
+  - targetObject: 869
+    targetPrefab: 0
+  - targetObject: 882
+    targetPrefab: 0
+  - targetObject: 842
+    targetPrefab: 0
+  - targetObject: 883
+    targetPrefab: 0
+  - targetObject: 864
+    targetPrefab: 0
+  - targetObject: 816
+    targetPrefab: 0
+  - targetObject: 894
+    targetPrefab: 0
+  - targetObject: 844
+    targetPrefab: 0
+  - targetObject: 877
+    targetPrefab: 0
+  - targetObject: 945
+    targetPrefab: 0
+  - targetObject: 950
+    targetPrefab: 0
+  - targetObject: 881
+    targetPrefab: 0
+  - targetObject: 904
+    targetPrefab: 0
+  m_Lights:
+  - targetObject: 1299
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  m_BakedReflectionProbeCubemapCacheFiles: []
+  m_BakedReflectionProbeCubemaps:
+  - {fileID: 8900000, guid: 735987e673a8ddc42ad581f8edf3fe3f, type: 3}
+  m_BakedReflectionProbes: []
+  m_EnlightenData: 556e69747946530000000006352e782e7800323031382e322e313766310000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_EnlightenDataVersion: 112

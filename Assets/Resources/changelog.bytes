@@ -1,0 +1,227 @@
+|5.5.2019
+Your bound input will no longer be locked after canceling a bind or resetting a keybind.
+Removed the red capsules representing spawnpoints on the map <i>Dungeon</i> (these were supposed to have been deleted before release).
+Added a shooting animation to the AK-47.
+Changed the player hit effect.
+Changed the look of the crosshair.
+Added weapon sway.
+Added effects for when players spawn.
+Fixed a bug where adjusting certain settings would change the gamemode.
+Elevators will now be instantly called instead of having a weird delay.
+Polished the credits screen.
+Added a dust storm to <i>Wasteland</i> and the main menu.
+Shrunk the shotgun spread.
+|5.4.2019
+Added firing modes.
+Added the MAC-10 to Gun Game.
+Added a new small map: <i>Dungeon</i>.
+Terrorists in TTT will no longer see the T icon at the bottom of their screen.
+Skins will now appear (whoops)!
+Tweaked the AK-47 again.
+Updated the AK-47's name from AK47 to AK-47.
+Quality, resolution, and fullscreen settings can now be changed in-game.
+You can now toggle the background blur as it seemed to cause quite a bit of lag on lower-end machines.
+New skin, and adjusted requirements.
+|4.29.2019
+Added a bridge to the map <i>Island</i>.
+You can no longer jump in the water.
+Tweaked post-processing.
+Added reload sounds to the MAC-10.
+You no longer will hold the MAC-10 always in gamemodes with droppable items.
+You can now pick up the MAC-10.
+The MAC-10 dropped item is no longer missing textures.
+Tweaked the AK47 to be more accurate and do 1 less damage.
+Fixed a bug where if you tried to reset a keybind it wouldn't stop waiting for a key press.
+You should no longer be participate in an elimination game after it has started (you can still spectate).
+Fixed some UI overlay issues.
+The skin <i>Ascent</i> will no longer block your view with glowing bars.
+Tweaked some skin requirements (Don't worry, they're all less).
+Redmatch now has 50+ total skins!
+Tweaked some existing skins to look better.
+UI animations!
+|4.24.2019
+Removed the delay on shooting if you are sprinting. Now if you shoot while sprinting, your gun will instantly fire.
+Fixed the missing particles on the map <i>Space</i>.
+Fire will now hurt you.
+Fixed some UI overlap issues.
+Added the MAC-10.
+|4.22.2019
+Added tooltips to help tell players what certain buttons do.
+Ammo will no longer float.
+<i>Actually</i> fixed the bug where you couldn't join or create a room after leaving one.
+|4.21.2019
+Fixed the bug where the title wouldn't animate.
+Hopefully fixed the bug where you couldn't join or create a room after leaving one.
+|4.20.2019
+Added the Battle Royale gamemode!
+Added the map <i>Island</i>. This map was made special for Battle Royale, but can be used with any gamemode! Keep in mind it is quite large.
+Fixed the bug where on returning to the lobby after a completed game you would be greeted by <i>nothing</i> and be forced to quit the game or play again.
+|4.19.2019
+Fixed the bug where post-processing wouldn't appear.
+|4.18.2019
+Added a FPS counter.
+Fixed the escape menu sometimes appearing below other UI elements.
+The scoreboard in Gun Game should now show the correct weapon each player is on instead of the local player's weapon.
+You will now be notified when someone creates a room, and have the option to join it.
+Reworked the room menu to allow you to customize or look at statistics while waiting for the room to start!
+Fixed the bug in Gun Game where your weapons would overlap when you got a new one.
+Changes to the map <i>Space</i>.
+New skins & challenges!
+|4.13.2019
+Fixed some UI overlay issues.
+You can now disconnect properly from the game!
+Added a new animated skin.
+Added anti-cheat measures.
+Infection and Gun Game may still be a bit buggy, so be warned.
+|4.12.2019
+Keybinds will no longer break with a new update.
+Added toggleable UI.
+|4.11.2019
+Added skins unlockable with challenges.
+Added a new skin.
+|4.10.2019
+Fixed the bug where all gamemodes would have limited ammo, and not just TTT and Infection.
+Added user accounts.
+Added statistics.
+Added global leaderboards (for 3 chosen statistics).
+Added some cool audio visualization to the main menu!
+Added the ability to use tab to cycle through UI.
+|3.27.2019
+Gun Game should now be playable.
+Infected should no longer drop knives
+Added reserve ammo. This means you can't just spray forever now!
+|3.26.2019
+You can now remove individual keybinds.
+Added keybind layouts! You can have up to 5 of them! Personally I use 1 for Skirmish on keyboard, 1 for Skirmish on controller, and 1 for TTT on keyboard.
+Added fully customizable controller input. Please note that if you want to be able to unaim for now with one of the controller triggers, you will have to assign it again after the game starts (bug which I will try to solve in the near future, I haven't quite figured it out yet)
+Controller input is now smooth.
+Some bug fixes with dropping items on death.
+Updated every map. Skyline might actually be fun now!
+Added new game modes: Gun Game and Infection.
+Fixed the traitor shop.
+Bug Fixes! (This is basically on every changelog, I'll stop putting it on after this and you can just expect that some bugs were fixed)
+|3.18.2019
+Keybinds!
+Adjusted volume controls.
+Complete UI overhaul.
+Bug fixes!
+|3.16.2019
+Changes to the map space (including a secret passage...)
+The elevator now takes 2 seconds instead of 8.
+Glass doors can now be opened and closed.
+Gun sounds!
+Elevators don't play music anymore.
+Bug fixes
+|3.15.2019.2
+Fixed some bugs with the map space (it should not glitch out now).
+Fixed some bugs with the scoreboard not appearing when a player joins.
+Changed the trash disposal trap to push players all the way out.
+Other bug fixes!
+|3.15.2019
+Fixed some more bugs.
+Fixed some bugs with the doors.
+Added a developer mode which allows you (me, mainly) to see errors.
+Added a trash dispenser into the map space (use it as a trap to push your friends into the abyss)!
+Added elevators to space and made some other map changes.
+You can now buy any weapon from the traitor shop.
+UI Changes.
+|3.13.2019
+Added movement animations.
+Fixed some UI bugs.
+UI improvements.
+Added blood when a player is shot (this is toggleable in settings, by default gore is off).
+Fixed some bugs, including one where you wouldn't die from falling out of the world.
+Discord should no longer say you are playing Redmatch after you have quit the game.
+You can no longer shoot while sprinting. Firing will cancel the sprint, but won't fire.
+You can no longer aim while sprinting. Aiming will cancel the sprint.
+Added toggleable doors to the map space. You can open and close them from the control panels.
+Added a border to the map Wasteland.
+New skin!
+|3.9.2019
+You can now play TTT with only 2 players, although it won't be very fun.
+Added colliders to some trees which were missing them in Wasteland.
+Added the traitor shop. Get points by killing innocents.
+Fixed a lot of bugs.
+UI Changes.
+Discord integration.
+Lots more in the changelog in-game.
+|3.3.2019
+No information available.
+|2.26.2019
+Quality-of-life improvements.
+|2.25.2019
+Mostly new UI stuff.
+|2.24.2019
+Added bullet dropoff
+Changed some map layouts
+The host of the room can now kick players
+Rooms can now be password-protected
+Players will now return to the lobby after the TTT match ends
+|2.23.2019
+Added the map Wasteland
+|2.22.2019
+Lots of bugfixes
+Gun tweaks
+You can no longer lose karma after the game ends
+Only detectives can identify bodies, but players can identify them if a detective already has.
+|2.21.2019
+Added the Silenced Glock
+Changed the Karma system
+Added bodies in TTT (Identify them with [E] to find out if they were a Detective, Traitor, or Innocent)
+Fixed the flying glitch (sorry everyone, it got too out of hand)
+|2.20.2019
+Added the gamemode TTT. I'll work more on the features of this mode over the course of the next updates :)
+|2.17.2019
+Added a bunch of stuff to the map Desert.
+Added a bunch of stuff to the map Space.
+Added the glock.
+Bugfixes and animation changes!
+|2.16.2019
+Added a new shooting animation for the sniper
+Added the shotgun
+Tweaked some gun statistics
+Tweaked some animations
+Bug fixes!
+|2.14.2019
+Fixed some minor bugs as well as improved the animations
+The sniper now does 100 damage, and the AR does 12
+The sniper now has 2 bullets per magazine, and a 3 second delay between firing
+Added recoil
+|2.13.2019
+Added crouching
+Added a sniper rifle
+Added text chat (press escape)
+Added skins
+Redid all the animations
+Other bugfixes
+|2.12.2019
+Fixed the reticle so that it will reflect the bullet spread properly on all resolutions
+The hit image will no longer clip through walls
+Added a training arena on the map Space
+Fixed the hit image size
+Added a kill count and kill effect
+Other bugfixes!
+|2.11.2019
+You can no longer shoot yourself.
+Added a dynamic crosshair.
+Changed the way bullet spread works.
+Adjusted the AK47's fire rate to better replicate the fire rate of a real AK47.
+You can now tell when you actually hit someone.
+Added bullet holes.
+Added a quit button to the main menu.
+Edited the Desert map.
+|2.10.2019
+Added bullet spread
+Damage is now handled client-side
+Fixed a bug where on player disconnect the disconnected player's avatar would still be left behind
+Changed the spawnpoints on Desert to prevent spawnkilling
+Added a trail to health loss
+|2.9.2019
+Added melee
+Added hurt sound
+Tweaked maps Desert and Skyline
+Removed the map Sun Temple (it was laggy and took a lot of storage)
+Fixed some bugs
+|2.7.2019
+Added the map Skyline.
+Kill text now highlights the dead player's name in red.

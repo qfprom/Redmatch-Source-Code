@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d2363d32d278a27878f5c0cdbaa414, type: 3}
+  m_Name: M249
+  m_EditorClassIdentifier:
+  itemType: 1
+  ammoType: 1
+  itemID: 7
+  icon: {fileID: 21300000, guid: afdf9d0c0e058a342a311220fcb94c65, type: 2}
+  itemName: M249
+  floorItemName: M249
+  animationLayers: 0b0000000c000000
+  motionSpreadMultiplier: 1
+  cameraShakeMultiplier: 0.23
+  cameraShakeRoughness: 10
+  canThrowAway: 1
+  breaksOnUse: 0
+  hideCrosshair: 0
+  hideMiddleCrosshair: 0
+  enterTriggerName: m249Enter
+  soundName: m249_gunshot
+  damageFalloffStart: 10
+  damageFalloff: 0.05
+  damage: 9
+  aimedBulletSpread: 0.01
+  aimedSensitivityMultiplier: 0.5
+  hipBulletSpread: 0.08
+  fireRate: 0.06
+  magazineSize: 200
+  reloadTime: 4.5
+  recoil: 0.02
+  maxRecoil: 0.16
+  recoilDecrease: 0.9
+  fireModes: 02000000
+  shotCount: 1
+  individualReload: 0
+  moveSpeedAdditive: 0
+  swayAmount: 0.015
+  maxSwayAmount: 0.06
+  aimSwayAmount: 0.005
+  maxAimSwayAmount: 0.005
+  swaySmoothAmount: 8

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LightingData
+  m_Scene: {fileID: 102900000, guid: 8317b0aececf50f4bb51d6bd78a03ca8, type: 3}
+  m_Lightmaps: []
+  m_LightmapsCacheFiles: []
+  m_LightProbes: {fileID: 25800000, guid: 9ff5806c331ffad4badda34ea9f570e9, type: 2}
+  m_LightmapsMode: 1
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0.17304052
+    sh[ 1]: -0.010768328
+    sh[ 2]: -0.02386102
+    sh[ 3]: -0.028237479
+    sh[ 4]: -0.025721448
+    sh[ 5]: -0.018167583
+    sh[ 6]: 0.0029825512
+    sh[ 7]: -0.0016717308
+    sh[ 8]: 0.007966877
+    sh[ 9]: 0.21588638
+    sh[10]: 0.022662278
+    sh[11]: -0.020116251
+    sh[12]: -0.025881425
+    sh[13]: -0.024568992
+    sh[14]: -0.017796746
+    sh[15]: 0.0032836786
+    sh[16]: -0.0016378547
+    sh[17]: 0.008451231
+    sh[18]: 0.26002747
+    sh[19]: 0.07621472
+    sh[20]: -0.00913699
+    sh[21]: -0.029054387
+    sh[22]: -0.027013907
+    sh[23]: -0.012554141
+    sh[24]: 0.0003292421
+    sh[25]: 0.0012811089
+    sh[26]: 0.0036280712
+  m_LightmappedRendererData: []
+  m_LightmappedRendererDataIDs: []
+  m_EnlightenSceneMapping:
+    m_Renderers:
+    - renderer: {fileID: 400, guid: 8317b0aececf50f4bb51d6bd78a03ca8, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 0
+      instanceHash:
+        serializedVersion: 2
+        Hash: 49e8aff10082d6d6e1b499fa30b97c93
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    - renderer: {fileID: 436, guid: 8317b0aececf50f4bb51d6bd78a03ca8, type: 2}
+      dynamicLightmapSTInSystem: {x: 1, y: 1, z: 0, w: 0}
+      systemId: 1
+      instanceHash:
+        serializedVersion: 2
+        Hash: 641baf945ec9ad4845502c82b6d47732
+      geometryHash:
+        serializedVersion: 2
+        Hash: 00000000000000000000000000000000
+    m_Systems:
+    - rendererIndex: 0
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 512
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 47247291a19f17426d188f59d3fbc1eb
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 71debc0ecc0bdd8bc81d31d4af61caac
+    - rendererIndex: 1
+      rendererSize: 1
+      atlasIndex: 0
+      atlasOffsetX: 0
+      atlasOffsetY: 0
+      inputSystemHash:
+        serializedVersion: 2
+        Hash: 97a5814e58e84205445fe643fd983ce4
+      radiositySystemHash:
+        serializedVersion: 2
+        Hash: 4812fa7a353ac8880821d9628edb34da
+    m_Probesets: []
+    m_SystemAtlases:
+    - atlasSize: 1024
+      atlasHash:
+        serializedVersion: 2
+        Hash: a83b79052313c702e1d94d18a577c27b
+      firstSystemId: 0
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs:
+  - targetObject: 400
+    targetPrefab: 0
+  - targetObject: 436
+    targetPrefab: 0
+  m_Lights:
+  - targetObject: 592
+    targetPrefab: 0
+  - targetObject: 593
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  m_BakedReflectionProbeCubemapCacheFiles: []
+  m_BakedReflectionProbeCubemaps:
+  - {fileID: 8900000, guid: d61f659926b844347ac4ef6eaa5585fa, type: 3}
+  m_BakedReflectionProbes: []
+  m_EnlightenData: 556e69747946530000000006352e782e7800323031382e322e313766310000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_EnlightenDataVersion: 112

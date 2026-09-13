@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ZomBunnyAOC
+  m_Controller: {fileID: 9100000, guid: 2a2714cafe0b72f45b3735120dacea95, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e8d228cf5689a3f44b6e14832c14cf81, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c89fa98d5191417459567a950dcabd92, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e8b2eb6f337d89a4ba360faf2d397833, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2b6e35cee9c94fb40a8e3eae9ae4c60e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6d07ad54cd0c20442b71a964c8a054c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 427212c1976314f4bb12f637f0391410, type: 2}

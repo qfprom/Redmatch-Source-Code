@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d2363d32d278a27878f5c0cdbaa414, type: 3}
+  m_Name: Glock
+  m_EditorClassIdentifier:
+  itemType: 1
+  ammoType: 0
+  itemID: 1
+  icon: {fileID: 21300000, guid: 7720963d55b436a49b74df128f339fa0, type: 2}
+  itemName: Glock
+  floorItemName: Glock
+  animationLayers: 0500000008000000
+  motionSpreadMultiplier: 1
+  cameraShakeMultiplier: 4
+  cameraShakeRoughness: 3
+  canThrowAway: 1
+  breaksOnUse: 0
+  hideCrosshair: 0
+  hideMiddleCrosshair: 0
+  enterTriggerName: glockEnter
+  soundName: ak47_gunshot
+  damageFalloffStart: 10
+  damageFalloff: 0.15
+  damage: 19
+  aimedBulletSpread: 0.02
+  aimedSensitivityMultiplier: 0.5
+  hipBulletSpread: 0.06
+  fireRate: 0.05
+  magazineSize: 17
+  reloadTime: 2
+  recoil: 0.03
+  maxRecoil: 0.1
+  recoilDecrease: 0.99
+  fireModes: 00000000
+  shotCount: 1
+  individualReload: 0
+  moveSpeedAdditive: 0
+  swayAmount: 0.015
+  maxSwayAmount: 0.06
+  aimSwayAmount: 0.005
+  maxAimSwayAmount: 0.005
+  swaySmoothAmount: 8

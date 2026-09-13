@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Corrupt
+  m_Shader: {fileID: 4800000, guid: 5014c406b7e5ce04b931af50ce09d169, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 5e70a0dbba9e5304b836171cd86feda6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      SHAPE: 0
+      SHAPEX: 0
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _Distort: 0.2
+      _DstBlend: 0
+      _Edge: 1
+      _End: 2.47
+      _GlossMapScale: 1
+      _Glossiness: 0.318
+      _GlossyReflections: 1
+      _GlowCutoff: 0.01
+      _Hard: 30
+      _Height: 1.23
+      _Metallic: 0
+      _Mitigation: 10
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Offset: 1
+      _Parallax: 0.02
+      _PixelLevel: 317
+      _ScrollX: 1
+      _ScrollY: 1
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _Speed: 2
+      _SpeedX: 1
+      _SpeedY: 1
+      _SrcBlend: 1
+      _Start: -1.21
+      _TexCutoff: 0.1
+      _UVSec: 0
+      _ZWrite: 1
+    m_Colors:
+      _Color: {r: 0.047169805, g: 0.047169805, b: 0.047169805, a: 1}
+      _ColorA: {r: 0.20754719, g: 0.089088656, b: 0.089088656, a: 1}
+      _ColorB: {r: 0.31132078, g: 0, b: 0, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _FadeColor: {r: 0, g: 0, b: 0, a: 1}
+      _GlowColor: {r: 1, g: 1, b: 1, a: 1}
+      _TintA: {r: 0.16818666, g: 0.2264151, b: 0.041651838, a: 1}
+      _TintB: {r: 0.46226418, g: 0.10684408, b: 0.10684408, a: 1}

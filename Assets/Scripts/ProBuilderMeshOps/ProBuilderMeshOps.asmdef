@@ -1,0 +1,9 @@
+{
+  "name": "ProBuilderMeshOps",
+  "references": [
+    "ProBuilderCore",
+    "Poly2Tri",
+    "KdTreeLib"
+  ],
+  "allowUnsafeCode": true
+}

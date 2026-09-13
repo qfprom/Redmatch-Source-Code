@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d2363d32d278a27878f5c0cdbaa414, type: 3}
+  m_Name: MAC-10
+  m_EditorClassIdentifier:
+  itemType: 1
+  ammoType: 0
+  itemID: 8
+  icon: {fileID: 21300000, guid: b7e03755e42e30d4ead3073b3bc58c09, type: 2}
+  itemName: MAC-10
+  floorItemName: MAC-10
+  animationLayers: 0e0000000f000000
+  motionSpreadMultiplier: 1
+  cameraShakeMultiplier: 2
+  cameraShakeRoughness: 2
+  canThrowAway: 1
+  breaksOnUse: 0
+  hideCrosshair: 0
+  hideMiddleCrosshair: 0
+  enterTriggerName: mac10Enter
+  soundName: mac10_gunshot
+  damageFalloffStart: 10
+  damageFalloff: 0.15
+  damage: 8
+  aimedBulletSpread: 0.02
+  aimedSensitivityMultiplier: 0.5
+  hipBulletSpread: 0.06
+  fireRate: 0.048
+  magazineSize: 32
+  reloadTime: 1.08
+  recoil: 0.015
+  maxRecoil: 0.05
+  recoilDecrease: 0.99
+  fireModes: 02000000
+  shotCount: 1
+  individualReload: 0
+  moveSpeedAdditive: 0
+  swayAmount: 0.015
+  maxSwayAmount: 0.06
+  aimSwayAmount: 0.005
+  maxAimSwayAmount: 0.005
+  swaySmoothAmount: 8

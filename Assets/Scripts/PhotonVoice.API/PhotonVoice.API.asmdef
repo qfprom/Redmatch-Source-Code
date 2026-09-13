@@ -1,0 +1,8 @@
+{
+  "name": "PhotonVoice.API",
+  "references": [
+    "PhotonRealtime",
+    "Photon3Unity3D"
+  ],
+  "allowUnsafeCode": true
+}
